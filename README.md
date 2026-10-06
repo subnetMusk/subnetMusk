@@ -1,6 +1,6 @@
 # @subnetMusk
 
-<sub>Leonardo Soligo, Computer Science student at the **University of Padua** </sub>
+<sub>Leonardo Soligo | Computer Science student at the **University of Padua** </sub>
 
 > Interested in **Cloud & Platform Engineering**, **Distributed Systems** and **DevSecOps**
 
@@ -25,7 +25,7 @@ A few projects I've worked on across software engineering, cloud infrastructure 
 
 The system combines an Angular frontend and Laravel API with asynchronous AWS-style workflows for document analysis and AI processing. My personal fork extends the original MVP with a **self-hosted observability stack** and an optional **local execution profile for AI and OCR**, without changing the underlying application architecture or workflow model.
 
-[Repository](https://github.com/subnetMusk/alittlebyte-MVP) - [Documentation](https://github.com/subnetMusk/alittlebyte-MVP/blob/main/docs/README.md)
+[Personal Fork](https://github.com/subnetMusk/alittlebyte-MVP) - [Team MVP](https://github.com/aLittleByte-19/MVP) - [Project Documentation](https://alittlebyte-19.github.io/Documentazione/)
 
 ---
 
@@ -48,5 +48,5 @@ I coordinated the technical team and worked mainly on **backend, infrastructure,
 ---
 
 <p align="center">
-  <sub>cloud · platform · security · systems</sub>
+  <sub>Sent from my iPhone</sub>
 </p>
